@@ -51,6 +51,9 @@ importers:
         specifier: ^3.22.2
         version: 3.23.8
     devDependencies:
+      '@babel/core':
+        specifier: ^7.12.3
+        version: 7.24.6
       '@types/bcrypt':
         specifier: ^5.0.1
         version: 5.0.2
